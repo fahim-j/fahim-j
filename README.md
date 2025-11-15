@@ -1,6 +1,6 @@
 # Hi there, I'm Fahim 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Coding+%7C+Learning+%7C+Creating+Projects;Full-Stack+Django+Developer;AI%2FML+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Coding+%7C+Learning+%7C+Creating+Projects;Cybersecurity & AI Enthusiast | Java, MySQL, Web Dev)
 
 ---
 
